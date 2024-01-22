@@ -1,0 +1,7 @@
+/* [data-entext-wrapper-link]{cursor:pointer} */
+
+[data-entext-wrapper-link] {
+    cursor: default !important; /* Set the cursor style to default (arrow) */
+    text-decoration: none !important; /* Remove any text decoration */
+    pointer-events: auto !important; /* Enable pointer events */
+}
